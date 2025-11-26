@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+verge-auth/__init__.py
+verge-auth/middleware.py
+verge_auth.egg-info/PKG-INFO
+verge_auth.egg-info/SOURCES.txt
+verge_auth.egg-info/dependency_links.txt
+verge_auth.egg-info/requires.txt
+verge_auth.egg-info/top_level.txt
